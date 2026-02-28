@@ -1,0 +1,8 @@
+title: Shoham Sen
+description: Machine Learning for Quantum & Energy Materials
+theme: minima
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  input: GFM
